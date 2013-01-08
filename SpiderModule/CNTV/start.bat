@@ -1,0 +1,2 @@
+java  -classpath ;E:\workspace\CNTVHandle\lib\commons-codec-1.5.jar;E:\workspace\CNTVHandle\lib\commons-logging.jar;E:\workspace\CNTVHandle\lib\commons-httpclient-3.0.1.jar;E:\workspace\CNTVHandle\lib\Ice.jar;E:\workspace\CNTVHandle\bin;E:\workspace\CNTVHandle\lib\jsoup-1.6.3.jar -Xms64m -Xmx512m  com.lenovo.framework.KnowledgeBase.ChannelExtrator
+ 
